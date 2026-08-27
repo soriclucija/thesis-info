@@ -1,0 +1,25 @@
+# Preparation
+
+Our first meeting will be in the second week of September. In order for me to be able to plan the meeting and to ensure we are on track, I have prepared a to-do list of things you needed to do prior to our meeting.
+
+1.  Indicate your [availability for the first meeting](https://lettucemeet.com/l/26X5B)
+
+    The meeting will be scheduled for 60-75 minutes during a time most of you are available. Please try to be **as flexible as possible**. You are working in a large group, and unfortunately the scheduled time might not be the most optimal for all. If you cannot make the scheduled meeting, let me know.
+
+2.  Complete this survey.
+
+3.  Read the study description below once again. Think about which variables you find interesting and if you would like to add something to the study. If you have any questions, prepare them for the meeting.
+
+## Project Description: Fall 26/27 {.unnumbered}
+
+**Who Trusts Science? Personality, Politics, and Attitudes toward Science**
+
+Public trust in science shapes how people respond to scientific evidence and policy, but trust levels vary systematically by group. This is particularly true for those with certain political attitudes and worldviews [@gligoric2025]. Gender, ethnicity, socioeconomic status and personality traits have also been identified as factors influencing levels of trust and attitudes towards science [@druckman2025; @fuglsang2024]. Given ongoing societal changes such as the rise of the use of artificial agents, climate change, and political polarization, understanding what shapes individuals’ responsiveness to science is increasingly important, since science informs the policies addressing these changes.
+
+Students will collect survey-based data using validated self-report instruments, collecting data collaboratively with their group. Each student will select a subset of variables to test their own hypothesis about individual differences and trust in science.
+
+Variables included: age, gender, political beliefs (various questionnaires), attitudes towards science (various questionnaires).
+
+Variables that **can be added in case of interest**: attitudes towards women (e.g., manosphere beliefs), socioeconomic status, self-reported technology/artificial intelligence use, etc.
+
+**References**

@@ -4,23 +4,39 @@ project:
 
 book:
   title: "BSc Thesis Information"
-  author: "L. Sorić"
-  date: "24/08/2026"
+  sidebar:
+    logo: uvt.png
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
-    - references.qmd
+    - part: process.qmd
+      chapters:
+        - preparation.qmd
+        #- proposal.qmd
+        #- introduction.qmd
+        #- methods.qmd
+        #- results.qmd
+        #- discussion.qmd
+        #- abstract.qmd
+    - part: "Group Meetings"
+      chapters:
+        - meeting1.qmd
+        - meeting2.qmd
+        - meeting3.qmd
+    - individual.qmd
+    - guidelines.qmd
+    - contact.qmd
+    - faq.qmd
+  page-footer: "by Lucija Sorić &copy; Tilburg University<br>last updated 26 August 2026"
 
 bibliography: references.bib
+csl: apa.csl
 
 format:
   html:
     theme:
-      - cosmo
-
+      - simplex
+      - custom.scss
   pdf:
     documentclass: scrreprt
 
 editor: visual
-

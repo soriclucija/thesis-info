@@ -4,39 +4,174 @@
     "href": "index.html",
     "title": "BSc Thesis Information",
     "section": "",
-    "text": "Preface\nWelcome!",
+    "text": "Introduction and Schedule",
     "crumbs": [
-      "Preface"
+      "Introduction and Schedule"
     ]
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "BSc Thesis Information",
+    "section": "Introduction",
+    "text": "Introduction\nWelcome! On this website, you will be able to find all materials needed for the successful completion of your thesis.\nThis website was created by me, your supervisor - Lucija Sorić. It exists to simplify our workflows and offer a centralized platform that is easy to find (it is just one link!) and easy to share (still just one link!).\nSome parts of this website are static, and unlikely to undergo major change. For example, contact details will always remain the same.\nOther aspects, such as research materials, instructions, meeting summaries, and others, will be updated at the appropriate time. The FAQ section will be updated regularly, as more questions come in. This way, I am trying to ensure all of you can benefit from shared information, even if you were not the one to ask it.\nThanks for reading and looking forward to working with you!",
+    "crumbs": [
+      "Introduction and Schedule"
+    ]
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "BSc Thesis Information",
+    "section": "Schedule",
+    "text": "Schedule\nBelow you can find the preliminary schedule. Upon changes, this will be updated.\n\n\nShow All\n\n\nStudent Only\n\n\nSupervisor Only\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDates\nStudent\nSupervisor\n\n\n\n\n1\n31 Aug – 6 Sep\nTopic selection, contact supervisor\nSend website, plan meeting\n\n\n2\n7 Sep – 13 Sep\nGroup meeting 1, write proposal\nPrepare research materials\n\n\n3\n14 Sep – 20 Sep\nWrite proposal\nOn holiday\n\n\n4\n21 Sep - 27 Sep\nWrite proposal\nPrepare research materials\n\n\n5\n28 Sep - 4 Oct\nSend proposal by October 1 at 18:00\n\n\n\n6\n5 Oct - 11 Oct\nGroup meeting 2\nFeedback on proposal\n\n\n7\n12 Oct - 18 Oct\nWrite intro. + method, collect data\n\n\n\n8\n19 Oct - 25 Oct\nWrite intro. + method, collect data\n\n\n\n9\n26 Oct - 1 Nov\nWrite intro. + method, send to supervisor by November 2 at 10:00, collect data\n\n\n\n10\n2 Nov - 8 Nov\nPlan analyses, collect data, group meeting #3\nFeedback on intro. + method\n\n\n11\n9 Nov - 15 Nov\nSend analysis plan to supervisor (optional)\nFeedback on plan (optional)\n\n\n12\n16 Nov - 22 Nov\nData analysis\n\n\n\n13\n23 Nov - 29 Nov\nAnalyses and write results\n\n\n\n14\n30 Nov - 6 Dec\nAnalyses and write results\n\n\n\n15\n7 Dec - 13 Dec\nHand in results by December 7 at 21:00\nFeedback on results\n\n\n16\n14 Dec - 20 Dec\nWrite discussion\nFeedback on results\n\n\n17\n21 Dec - 27 Dec\nWrite discussion\n\n\n\n18\n28 Dec - 3 Jan\nWrite discussion + abstract\nOn holiday\n\n\n19\n4 Jan - 10 Jan\nHand in first full version by January 8 at 21:00\n\n\n\n20\n11 Jan - 17 Jan\nWork on final version\nFeedback on 1st version\n\n\n21\n18 Jan - 24 Jan\nWork on final version\n\n\n\n22\n25 Jan - 31 Jan\nHand in final version",
+    "crumbs": [
+      "Introduction and Schedule"
+    ]
+  },
+  {
+    "objectID": "process.html",
+    "href": "process.html",
+    "title": "Thesis Process",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. (USA) 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "Here, you can find all the information and materials needed to complete different sections of your thesis.\nI will also share some tips for each aspect, as well as some general writing guidelines. However, do consult the thesis syllabus/student guide (click here) in order to ensure your sections are also in line with graded components.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+      "Thesis Process"
     ]
   },
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
+    "objectID": "preparation.html",
+    "href": "preparation.html",
+    "title": "1  Preparation",
+    "section": "",
+    "text": "Project Description: Fall 26/27\nOur first meeting will be in the second week of September. In order for me to be able to plan the meeting and to ensure we are on track, I have prepared a to-do list of things you needed to do prior to our meeting.\nWho Trusts Science? Personality, Politics, and Attitudes toward Science\nPublic trust in science shapes how people respond to scientific evidence and policy, but trust levels vary systematically by group. This is particularly true for those with certain political attitudes and worldviews (Gligorić et al., 2025). Gender, ethnicity, socioeconomic status and personality traits have also been identified as factors influencing levels of trust and attitudes towards science (Druckman et al., 2025; Fuglsang, 2024). Given ongoing societal changes such as the rise of the use of artificial agents, climate change, and political polarization, understanding what shapes individuals’ responsiveness to science is increasingly important, since science informs the policies addressing these changes.\nStudents will collect survey-based data using validated self-report instruments, collecting data collaboratively with their group. Each student will select a subset of variables to test their own hypothesis about individual differences and trust in science.\nVariables included: age, gender, political beliefs (various questionnaires), attitudes towards science (various questionnaires).\nVariables that can be added in case of interest: attitudes towards women (e.g., manosphere beliefs), socioeconomic status, self-reported technology/artificial intelligence use, etc.\nReferences",
+    "crumbs": [
+      "Thesis Process",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "preparation.html#project-description-fall-2627",
+    "href": "preparation.html#project-description-fall-2627",
+    "title": "1  Preparation",
+    "section": "",
+    "text": "Druckman, J. N., Ognyanova, K., Safarpour, A., Schulman, J., Lunz Trujillo, K., Uslu, A. A., Green, J., Baum, M. A., Quintana-Mathé, A., Qu, H., Perlis, R. H., & Lazer, D. M. J. (2025). Representation in science and trust in scientists in the USA. Nature Human Behaviour, 10(3), 476–491. https://doi.org/10.1038/s41562-025-02358-4\n\n\nFuglsang, S. (2024). What if some people just do not like science? How personality traits relate to attitudes toward science and technology. Public Understanding of Science, 33(5), 623–633. https://doi.org/10.1177/09636625231220341\n\n\nGligorić, V., Kleef, G. A. van, & Rutjens, B. T. (2025). Political ideology and trust in scientists in the USA. Nature Human Behaviour, 9(7), 1501–1512. https://doi.org/10.1038/s41562-025-02147-z",
+    "crumbs": [
+      "Thesis Process",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Preparation</span>"
+    ]
+  },
+  {
+    "objectID": "meeting1.html",
+    "href": "meeting1.html",
+    "title": "Meeting 1",
+    "section": "",
+    "text": "Immediately following the meeting, a meeting summary and the PDF of the presentation will be shared here.",
+    "crumbs": [
+      "Group Meetings",
+      "Meeting 1"
+    ]
+  },
+  {
+    "objectID": "meeting2.html",
+    "href": "meeting2.html",
+    "title": "Meeting 2",
+    "section": "",
+    "text": "Immediately following the meeting, a meeting summary and the PDF of the presentation will be shared here.",
+    "crumbs": [
+      "Group Meetings",
+      "Meeting 2"
+    ]
+  },
+  {
+    "objectID": "meeting3.html",
+    "href": "meeting3.html",
+    "title": "Meeting 3",
+    "section": "",
+    "text": "Immediately following the meeting, a meeting summary and the PDF of the presentation will be shared here.",
+    "crumbs": [
+      "Group Meetings",
+      "Meeting 3"
+    ]
+  },
+  {
+    "objectID": "individual.html",
+    "href": "individual.html",
+    "title": "Individual Meetings",
+    "section": "",
+    "text": "Booking Link and Location\nAfter receiving written feedback on different parts of your thesis, you can book a meeting to further discuss the feedback in person.\nThese meetings are optional, but highly recommended. In the meeting, you can ask about anything you find unclear about the feedback, something you wanted feedback on but did not get, advice, etc.\nYou can also use these opportunities to ask any other questions you might have, such as issues with motivation, special circumstances, etc.",
+    "crumbs": [
+      "Individual Meetings"
+    ]
+  },
+  {
+    "objectID": "individual.html#booking-link-and-location",
+    "href": "individual.html#booking-link-and-location",
+    "title": "Individual Meetings",
+    "section": "",
+    "text": "Link\nPlease use this link to book the meetings: https://tidycal.com/l-soric.\nThis way, you can book any time slot you want*, and you do not have to let me know of your intention to do so.\n* I will add more time slots every week. In case there are no available time slots, wait a few days before letting me know.\n\n\nLocation\nBy default, all booked meetings are in person. Upon booking, I will let you know where exactly (i.e., which building/room) we will be meeting. However, in case of special circumstances, you can let me know to move the meeting online. There is an option to do so during the booking process. In case of my own special circumstances, I will let you know ASAP about the change in plans.",
+    "crumbs": [
+      "Individual Meetings"
+    ]
+  },
+  {
+    "objectID": "individual.html#number-of-meetings",
+    "href": "individual.html#number-of-meetings",
+    "title": "Individual Meetings",
+    "section": "Number of Meetings",
+    "text": "Number of Meetings\nYou are allowed to book three (3) meetings to discuss written thesis feedback. However, if you would like to discuss anything else regarding the thesis process - that is not directly related to your written work - please feel free to book additional meetings.",
+    "crumbs": [
+      "Individual Meetings"
+    ]
+  },
+  {
+    "objectID": "guidelines.html",
+    "href": "guidelines.html",
+    "title": "Thesis Guidelines",
+    "section": "",
+    "text": "Thesis guidelines are freely available on Canvas. For simplicity, you can find the link to the files below.\nTo open the correct file, please click on the name of your major:\nEconomic Psychology\nSocial Psychology\nWork and Organisational Psychology\nOn Canvas you can also find the grading rubric, under the Thesis Assessment module. It is highly recommended that you take a look at this while writing different sections of your thesis, since you are graded based on this.",
+    "crumbs": [
+      "Thesis Guidelines"
+    ]
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Details",
+    "section": "",
+    "text": "Email\nFor all questions and inquiries, please use the email below:",
+    "crumbs": [
+      "Contact Details"
+    ]
+  },
+  {
+    "objectID": "contact.html#email",
+    "href": "contact.html#email",
+    "title": "Contact Details",
+    "section": "",
+    "text": "l.soric@tilburguniversity.edu\n\n\nWhat to Include in Thesis-related Emails?\nIt is important to include as much detail as possible so that the back-and-forth exchange is limited and you get an adequate response as soon as possible.\nFor example, if your question is related to certain sections, for each section you can include:\n\nIntroduction: relevant context, references, what you already have, what you need…\nMethods: what you have done so far, what options you considered…\nResults: what you want to achieve, what you did to get there, what you would like me to do to help you…\nDiscussion: relevant context, references, arguments you are unsure about…\n\nThis list is not exhaustive, and can vary per needs. However, in all thesis-related exchanges make sure to highlight what you have tried so far and what you need help with. If you have not tried anything yet, it is likely my response would not be sufficient to solve your problem.\n\n\nContact Frequency\n\nThesis-related\nTo ensure fairness, there is a limited amount of times you can contact me for urgent, thesis-related matters.\n\nUrgent means that it cannot wait until the next meeting/feedback point.\nThesis-related means that it has to do with a certain section of the thesis, the thesis process, thesis rules, etc. Almost all information you might need is freely available to you on Canvas or on this website.\n\nFor this type of contact, you can contact me up to 6-7 times. Do know that I will not be counting these emails unless I notice a disproportionate amount of contact points*.\n* A contact point refers to the entire email exchange. If my response is not clear, please feel free to ask for clarification. This is not considered a separate contact point.\n\n\nNot thesis-related\nPlease note that there are no limits on emails that have to do with e.g., booking a meeting, personal issues (such as sickness, family issues, mental health issues,…), procedural issues (e.g., if you cannot open a link on this website). You are free to contact me whenever.\n\n\n\nReply frequency\nThe supervision time allocated to me is limited. This means that apart from supervision, I have additional responsibilities with their own deadlines. Therefore, you can expect to receive a reply any time within 5 working days*. I will likely reply a lot sooner, but keep this in mind when planning your work. For example, if you only start working on a section a few days before the deadline and get stuck, it is possible you will not be able to get help on time.\n* If it has been longer than this, and I am not on holiday, please send me a reminder. However, sending reminders too early is prohibited and could affect your final thesis grade (namely, the work attitude section in the rubric).",
+    "crumbs": [
+      "Contact Details"
+    ]
+  },
+  {
+    "objectID": "contact.html#meetings",
+    "href": "contact.html#meetings",
+    "title": "Contact Details",
+    "section": "Meetings",
+    "text": "Meetings\nIf you want to book a meeting, please click here to learn how.",
+    "crumbs": [
+      "Contact Details"
+    ]
+  },
+  {
+    "objectID": "faq.html",
+    "href": "faq.html",
+    "title": "FAQ",
     "section": "",
     "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
-    ]
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. (USA) 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
-    "crumbs": [
-      "References"
+      "FAQ"
     ]
   }
 ]

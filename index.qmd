@@ -1,3 +1,84 @@
-# Preface {.unnumbered}
+# Introduction and Schedule {.unnumbered}
 
-Welcome!
+## Introduction
+
+Welcome! On this website, you will be able to find all materials needed for the successful completion of your thesis.
+
+This website was created by me, your supervisor - Lucija Sorić. It exists to simplify our workflows and offer a centralized platform that is easy to find (it is just one link!) and easy to share (still just one link!).
+
+Some parts of this website are static, and unlikely to undergo major change. For example, contact details will always remain the same.
+
+Other aspects, such as research materials, instructions, meeting summaries, and others, will be updated at the appropriate time. The FAQ section will be updated regularly, as more questions come in. This way, I am trying to ensure all of you can benefit from shared information, even if you were not the one to ask it.
+
+Thanks for reading and looking forward to working with you!
+
+## Schedule
+
+Below you can find the preliminary schedule. Upon changes, this will be updated.
+
+::: {.mb-3 .filter-buttons}
+<button id="btn-all" class="btn btn-outline-primary btn-sm" onclick="filterColumns(&#39;all&#39;)">Show All</button>
+
+<button id="btn-student" class="btn btn-outline-primary btn-sm" onclick="filterColumns(&#39;student&#39;)">Student Only</button>
+
+<button id="btn-supervisor" class="btn btn-outline-primary btn-sm" onclick="filterColumns(&#39;supervisor&#39;)">Supervisor Only</button>
+:::
+
+| Week | Dates | Student | Supervisor |
+|:--------------:|:--------------:|:-------------------:|:-------------------:|
+| 1 | 31 Aug – 6 Sep | Topic selection, contact supervisor | Send website, plan meeting |
+| 2 | 7 Sep – 13 Sep | Group meeting 1, write proposal | Prepare research materials |
+| 3 | 14 Sep – 20 Sep | Write proposal | On holiday |
+| 4 | 21 Sep - 27 Sep | Write proposal | Prepare research materials |
+| 5 | 28 Sep - 4 Oct | Send proposal by **October 1 at 18:00** |  |
+| 6 | 5 Oct - 11 Oct | Group meeting 2 | Feedback on proposal |
+| 7 | 12 Oct - 18 Oct | Write intro. + method, collect data |  |
+| 8 | 19 Oct - 25 Oct | Write intro. + method, collect data |  |
+| 9 | 26 Oct - 1 Nov | Write intro. + method, send to supervisor by **November 2 at 10:00**, collect data |  |
+| 10 | 2 Nov - 8 Nov | Plan analyses, collect data, group meeting #3 | Feedback on intro. + method |
+| 11 | 9 Nov - 15 Nov | Send analysis plan to supervisor (optional) | Feedback on plan (optional) |
+| 12 | 16 Nov - 22 Nov | Data analysis |  |
+| 13 | 23 Nov - 29 Nov | Analyses and write results |  |
+| 14 | 30 Nov - 6 Dec | Analyses and write results |  |
+| 15 | 7 Dec - 13 Dec | Hand in results by **December 7 at 21:00** | Feedback on results |
+| 16 | 14 Dec - 20 Dec | Write discussion | Feedback on results |
+| 17 | 21 Dec - 27 Dec | Write discussion |  |
+| 18 | 28 Dec - 3 Jan | Write discussion + abstract | On holiday |
+| 19 | 4 Jan - 10 Jan | Hand in first full version by **January 8 at 21:00** |  |
+| 20 | 11 Jan - 17 Jan | Work on final version | Feedback on 1st version |
+| 21 | 18 Jan - 24 Jan | Work on final version |  |
+| 22 | 25 Jan - 31 Jan | Hand in final version |  |
+
+```{=html}
+<script>
+function filterColumns(view) {
+  const tables = document.querySelectorAll('table');
+  const table = tables[tables.length - 1];
+  const rows = table.querySelectorAll('tr');
+
+  rows.forEach(row => {
+    const cells = row.querySelectorAll('th, td');
+    if (cells.length < 4) return;
+    const studentCell = cells[2];
+    const supervisorCell = cells[3];
+
+    if (view === 'all') {
+      studentCell.style.visibility = 'visible';
+      supervisorCell.style.visibility = 'visible';
+    } else if (view === 'student') {
+      studentCell.style.visibility = 'visible';
+      supervisorCell.style.visibility = 'hidden';
+    } else if (view === 'supervisor') {
+      studentCell.style.visibility = 'hidden';
+      supervisorCell.style.visibility = 'visible';
+    }
+  });
+
+  // Toggle "active" class on buttons
+  document.querySelectorAll('.filter-buttons .btn').forEach(btn => {
+    btn.classList.remove('active');
+  });
+  document.getElementById('btn-' + view).classList.add('active');
+}
+</script>
+```

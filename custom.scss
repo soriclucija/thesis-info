@@ -1,0 +1,107 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+$navy: #002f59;
+$gold: #ae6e00;
+$font-family-sans-serif: "Inter", sans-serif;
+$headings-font-family: "Inter", sans-serif;
+$link-color: $gold;
+$headings-color: $navy;
+/*-- scss:rules --*/
+h1 {
+  color: $gold;
+  text-align: center;
+}
+h2, h3, h4, h5, h6 {
+  color: $navy;
+}
+a {
+  color: $gold;
+}
+#quarto-sidebar .sidebar-item.active > .sidebar-link,
+#quarto-sidebar .sidebar-item a.active,
+#quarto-sidebar li.active > a {
+  color: $gold !important;
+  font-weight: 600;
+}
+.sidebar-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 1rem;
+  text-align: left;
+}
+#quarto-sidebar .sidebar-logo {
+  max-width: 50px;
+  margin: 0;
+  display: block;
+  flex-shrink: 0;
+}
+#quarto-sidebar .sidebar-title,
+#quarto-sidebar .sidebar-title a {
+  font-weight: 700 !important;
+  font-size: 1.3rem !important;
+  white-space: normal !important;
+  line-height: 1.2;
+  color: $navy !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+// Filter buttons
+.filter-buttons {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  margin-top: 1.5rem;
+}
+.filter-buttons .btn {
+  min-width: 150px;
+  text-align: center;
+  border: 1px solid $gold !important;
+  padding: 0.4rem 1rem !important;
+  line-height: 1 !important;
+  font-size: 0.85rem !important;
+  height: auto !important;
+  box-sizing: border-box !important;
+}
+.filter-buttons .btn-outline-primary.active {
+  background-color: $gold;
+  border-color: $gold;
+  color: white;
+  font-weight: 400;
+}
+.filter-buttons .btn-outline-primary {
+  color: $gold;
+  text-transform: uppercase;
+}
+.filter-buttons .btn-outline-primary:hover {
+  background-color: $gold;
+  border-color: $gold;
+  color: white;
+}
+.filter-buttons .btn:focus,
+.filter-buttons .btn:active,
+.filter-buttons .btn.active {
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+// Table headers
+table thead th {
+  color: $gold !important;
+  font-size: 1rem !important;
+}
+table td:nth-child(1),
+table td:nth-child(2) {
+  font-size: 0.9rem;
+}
+table td:nth-child(3),
+table td:nth-child(4) {
+  font-size: 0.9rem;
+}
+table td:nth-child(2),
+table th:nth-child(2) {
+  border-right: 2px solid $gold;
+}

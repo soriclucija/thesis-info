@@ -1,0 +1,53 @@
+# Contact Details {.unnumbered}
+
+## Email
+
+For all questions and inquiries, please use the email below:
+
+::: {style="text-align: center;"}
+[**l.soric\@tilburguniversity.edu**]{style="background-color: #ae6e00; color: white; padding: 2px 6px; border-radius: 3px;"}
+:::
+
+### What to Include in Thesis-related Emails?
+
+It is important to include as much detail as possible so that the back-and-forth exchange is limited and you get an adequate response as soon as possible.
+
+For example, if your question is related to certain sections, for each section you can include:
+
+- **Introduction:** relevant context, references, what you already have, what you need...
+
+- **Methods:** what you have done so far, what options you considered...
+
+- **Results:** what you want to achieve, what you did to get there, what you would like me to do to help you...
+
+- **Discussion:** relevant context, references, arguments you are unsure about...
+
+This list is not exhaustive, and can vary per needs. However, in all thesis-related exchanges make sure to highlight **what you have tried so far** and **what you need help with.** If you have not tried anything yet, it is likely my response would not be sufficient to solve your problem.
+
+### Contact Frequency
+
+#### Thesis-related
+
+To ensure fairness, there is a limited amount of times you can contact me for **urgent, thesis-related matters.**
+
+- *Urgent* means that it cannot wait until the next meeting/feedback point.
+
+- *Thesis-related* means that it has to do with a certain section of the thesis, the thesis process, thesis rules, etc. Almost all information you might need is freely available to you on Canvas or on this website.
+
+For this type of contact, you can contact me up to 6-7 times. Do know that I will not be counting these emails unless I notice a disproportionate amount of contact points\*.
+
+\* *A contact point refers to the **entire** email exchange. If my response is not clear, please feel free to ask for clarification. This is not considered a separate contact point.*
+
+#### Not thesis-related
+
+Please note that there are **no limits** on emails that have to do with e.g., booking a meeting, personal issues (such as sickness, family issues, mental health issues,...), procedural issues (e.g., if you cannot open a link on this website). You are free to contact me whenever.
+
+### Reply frequency
+
+The supervision time allocated to me is *limited*. This means that apart from supervision, I have additional responsibilities with their own deadlines. Therefore, you can expect to receive a reply **any time within 5 working days\***. I will likely reply a lot sooner, but keep this in mind when planning your work. For example, if you only start working on a section a few days before the deadline and get stuck, it is possible you will not be able to get help on time.
+
+\* *If it has been longer than this, and I am not on holiday, please send me a reminder. However, sending reminders too early is prohibited and could affect your final thesis grade (namely, the work attitude section in the rubric).*
+
+## Meetings
+
+If you want to book a meeting, please click here to learn how.
