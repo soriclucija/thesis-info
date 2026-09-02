@@ -75,7 +75,7 @@
     </h2>
     <div id="specialCollapse1" class="accordion-collapse collapse" aria-labelledby="specialHeading1" data-bs-parent="#accordionSpecial">
       <div class="accordion-body">
-        For this, you have to contact the examination board at <b>examinationboardtsb@tilburguniversity.edu<\b>. Neither me, nor the thesis coordinator, can allow you to hand your work in late, nor can we push the final deadline. It is up to the examination board to make this call. However, you are free to contact me for advice on this matter.
+        For this, you have to contact the examination board at <b>examinationboardtsb@tilburguniversity.edu</b>. Neither me, nor the thesis coordinator, can allow you to hand your work in late, nor can we push the final deadline. It is up to the examination board to make this call. However, you are free to contact me for advice on this matter.
       </div>
     </div>
   </div>
