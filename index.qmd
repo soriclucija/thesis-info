@@ -8,7 +8,7 @@ This website was created by me, your supervisor - Lucija Sorić. It exists to si
 
 Some parts of this website are static, and unlikely to undergo major change. For example, contact details will always remain the same.
 
-Other aspects, such as research materials, instructions, meeting summaries, and others, will be updated at the appropriate time. The FAQ section will be updated regularly, as more questions come in. This way, I am trying to ensure all of you can benefit from shared information, even if you were not the one to ask it.
+Other aspects, such as research materials, instructions, meeting summaries, and others, will be updated at the appropriate time. The [Frequently Asked Questions (FAQ) section](https://soriclucija.github.io/thesis-info/faq.html) will be updated regularly, as more questions come in. This way, I am trying to ensure all of you can benefit from shared information, even if you were not the one to ask it.
 
 Thanks for reading and looking forward to working with you!
 
@@ -16,16 +16,18 @@ Thanks for reading and looking forward to working with you!
 
 Below you can find the preliminary schedule. Upon changes, this will be updated.
 
-::: {.mb-3 .filter-buttons}
+For the sake of transparency, I have included both your tasks and my tasks in the schedule. If you want to see either one of them by itself, click the buttons below.
+
+:::: {.mb-3 .filter-buttons}
 <button id="btn-all" class="btn btn-outline-primary btn-sm" onclick="filterColumns(&#39;all&#39;)">Show All</button>
 
 <button id="btn-student" class="btn btn-outline-primary btn-sm" onclick="filterColumns(&#39;student&#39;)">Student Only</button>
 
 <button id="btn-supervisor" class="btn btn-outline-primary btn-sm" onclick="filterColumns(&#39;supervisor&#39;)">Supervisor Only</button>
-:::
 
+::: table-responsive
 | Week | Dates | Student | Supervisor |
-|:--------------:|:--------------:|:-------------------:|:-------------------:|
+|:------:|:-------------:|:-------------------:|:-------------------:|
 | 1 | 31 Aug – 6 Sep | Topic selection, contact supervisor | Send website, plan meeting |
 | 2 | 7 Sep – 13 Sep | Group meeting 1, write proposal | Prepare research materials |
 | 3 | 14 Sep – 20 Sep | Write proposal | On holiday |
@@ -82,3 +84,5 @@ function filterColumns(view) {
 }
 </script>
 ```
+:::
+::::

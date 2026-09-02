@@ -26,7 +26,7 @@ book:
     - guidelines.qmd
     - contact.qmd
     - faq.qmd
-  page-footer: "by Lucija Sorić &copy; Tilburg University<br>last updated 26 August 2026"
+  page-footer: "by Lucija Sorić &copy; Tilburg University<br>last updated 02/09/26"
 
 bibliography: references.bib
 csl: apa.csl
@@ -34,8 +34,9 @@ csl: apa.csl
 format:
   html:
     theme:
-      - simplex
-      - custom.scss
+      light: [simplex, custom.scss]
+      dark: [darkly, custom-dark.scss]
+    include-after-body: toggle-move.html
   pdf:
     documentclass: scrreprt
 

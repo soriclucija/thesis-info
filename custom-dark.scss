@@ -5,8 +5,10 @@
   font-weight: 400;
   font-style: normal;
 }
-$navy: #002f59;
-$gold: #ae6e00;
+$navy: #8fb4f9;
+$gold: #d9a536;
+$body-bg: #001b33;
+$body-color: #ffffff;
 $font-family-sans-serif: "Scala Sans", "Inter", sans-serif;
 $headings-font-family: "Scala Sans", "Inter", sans-serif;
 $link-color: $gold;
@@ -40,6 +42,7 @@ a {
   margin: 0;
   display: block;
   flex-shrink: 0;
+  content: url("uvt-dark.png");
 }
 #quarto-sidebar .sidebar-title,
 #quarto-sidebar .sidebar-title a {
@@ -148,18 +151,16 @@ table th:nth-child(2) {
   border: none !important;
 }
 .accordion-button {
-  color: $navy;
+  color: $body-bg;
   font-weight: 600;
   background-color: white;
   border: none !important;
 
-  // Override Bootstrap's own focus variables (this fixes the stray line)
   --bs-accordion-btn-focus-border-color: transparent;
   --bs-accordion-btn-focus-box-shadow: none;
 
-  // Override Bootstrap's own icon variables (gold collapsed, white expanded)
   --bs-accordion-btn-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23ae6e00'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
-  --bs-accordion-btn-active-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23ffffff'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+  --bs-accordion-btn-active-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23ae6e00'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
 }
 .accordion-button:not(.collapsed) {
   color: white;
@@ -170,6 +171,8 @@ table th:nth-child(2) {
 }
 .accordion-body {
   border-top: none !important;
+  background-color: #002845;
+  color: $body-color;
 }
 
 // Hide Quarto's auto anchor-link icon inside accordions

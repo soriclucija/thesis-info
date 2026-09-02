@@ -2,7 +2,7 @@
 
 After receiving written feedback on different parts of your thesis, you can [book a meeting](https://tidycal.com/l-soric) to further discuss the feedback in person.
 
-These meetings are optional, but *highly recommended*. In the meeting, you can ask about anything you find unclear about the feedback, something you wanted feedback on but did not get, advice, etc.
+These meetings are optional, but ***highly recommended***. In the meeting, you can ask about anything you find unclear about the feedback, something you wanted feedback on but did not get, advice, etc.
 
 You can also use these opportunities to ask any other questions you might have, such as issues with motivation, special circumstances, etc.
 
@@ -23,3 +23,7 @@ By default, all booked meetings are **in person**. Upon booking, I will let you 
 ## Number of Meetings
 
 You are allowed to book **three** (3) meetings to discuss written thesis feedback. However, if you would like to discuss anything else regarding the thesis process - that is not directly related to your written work - *please feel free to book additional meetings*.
+
+## Length of Meetings
+
+Feedback meeting are expected to last 45 minutes. However, in case you already know you do not have a lot of questions, you can book a 30 minute meeting instead. Alternatively, in case you already know that you might need *more* time, you can book two back-to-back 30 minute meetings. These will count as **one** (1) meeting.

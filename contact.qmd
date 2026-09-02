@@ -50,4 +50,4 @@ The supervision time allocated to me is *limited*. This means that apart from su
 
 ## Meetings
 
-If you want to book a meeting, please click here to learn how.
+If you want to book a meeting, please [click here](https://soriclucija.github.io/thesis-info/individual.html) to learn how to do so.
