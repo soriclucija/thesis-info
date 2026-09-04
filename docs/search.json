@@ -66,7 +66,29 @@
     "href": "meeting1.html",
     "title": "Meeting 1",
     "section": "",
-    "text": "Immediately following the meeting, a meeting summary and the PDF of the presentation will be shared here.",
+    "text": "How to find the room?\nDate: September 11, 2026\nTime: 13:00 - 14:15\nLocation: Simon building, room S1\nThe room is located on the ground floor of the Simon building. If you enter from Professor Verbernelaan, on the right you will see an entrance with a staircase, two elevators and a door. Go through that door and then through the hallway on the right. The room will be the first one on the right.",
+    "crumbs": [
+      "Group Meetings",
+      "Meeting 1"
+    ]
+  },
+  {
+    "objectID": "meeting1.html#what-if-i-cannot-attend",
+    "href": "meeting1.html#what-if-i-cannot-attend",
+    "title": "Meeting 1",
+    "section": "What if I cannot attend?",
+    "text": "What if I cannot attend?\nImmediately following the meeting, a meeting summary and the PDF of the presentation will be shared here. If you cannot attend the meeting, let me know. If the PDF of the presentation is not enough to understand everything, we can schedule an individual meeting on some other day so you can ask questions. This meeting would not count as one of the individual feedback meetings, do not worry.",
+    "crumbs": [
+      "Group Meetings",
+      "Meeting 1"
+    ]
+  },
+  {
+    "objectID": "meeting1.html#do-i-have-to-prepare-anything",
+    "href": "meeting1.html#do-i-have-to-prepare-anything",
+    "title": "Meeting 1",
+    "section": "Do I have to prepare anything?",
+    "text": "Do I have to prepare anything?\nEverything you need to do to prepare for the meeting has already been shared here.",
     "crumbs": [
       "Group Meetings",
       "Meeting 1"
