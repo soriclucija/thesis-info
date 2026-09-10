@@ -19,32 +19,20 @@ Below you can find the preliminary schedule. Upon changes, this will be updated.
 For the sake of transparency, I have included both your tasks and my tasks in the schedule. If you want to see either one of them by itself, click the buttons below.
 
 :::: {.mb-3 .filter-buttons}
-<button id="btn-all" class="btn btn-outline-primary btn-sm" onclick="filterColumns(&#39;all&#39;)">
+<button id="btn-all" class="btn btn-outline-primary btn-sm" onclick="filterColumns(&#39;all&#39;)">Show All</button>
 
-Show All
+<button id="btn-student" class="btn btn-outline-primary btn-sm" onclick="filterColumns(&#39;student&#39;)">Student Only</button>
 
-</button>
-
-<button id="btn-student" class="btn btn-outline-primary btn-sm" onclick="filterColumns(&#39;student&#39;)">
-
-Student Only
-
-</button>
-
-<button id="btn-supervisor" class="btn btn-outline-primary btn-sm" onclick="filterColumns(&#39;supervisor&#39;)">
-
-Supervisor Only
-
-</button>
+<button id="btn-supervisor" class="btn btn-outline-primary btn-sm" onclick="filterColumns(&#39;supervisor&#39;)">Supervisor Only</button>
 
 ::: table-responsive
 | Week | Dates | Student | Supervisor |
-|:--:|:--:|:--:|:--:|
+|:---------:|:----------------:|:----------------:|:----------------:|
 | 1 | 31 Aug – 6 Sep | Topic selection, contact supervisor | Send website, plan meeting |
 | 2 | 7 Sep – 13 Sep | Group meeting 1, write proposal | Prepare research materials |
 | 3 | 14 Sep – 20 Sep | Write proposal | On holiday |
 | 4 | 21 Sep - 27 Sep | Write proposal | Prepare research materials |
-| 5 | 28 Sep - 4 Oct | Send proposal by **October 1 at 18:00** |  |
+| 5 | 28 Sep - 4 Oct | Send proposal by **October 2 at 10:00** |  |
 | 6 | 5 Oct - 11 Oct | Group meeting 2 | Feedback on proposal |
 | 7 | 12 Oct - 18 Oct | Write intro. + method, collect data |  |
 | 8 | 19 Oct - 25 Oct | Write intro. + method, collect data |  |

@@ -11,7 +11,7 @@ book:
     - part: process.qmd
       chapters:
         - preparation.qmd
-        #- proposal.qmd
+        - proposal.qmd
         #- introduction.qmd
         #- methods.qmd
         #- results.qmd
@@ -26,7 +26,7 @@ book:
     - guidelines.qmd
     - contact.qmd
     - faq.qmd
-  page-footer: "by Lucija Sorić &copy; Tilburg University<br>last updated 02/09/26"
+  page-footer: "by Lucija Sorić &copy; Tilburg University<br>last updated 11/09/26"
 
 bibliography: references.bib
 csl: apa.csl
