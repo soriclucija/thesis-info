@@ -27,7 +27,7 @@ For the sake of transparency, I have included both your tasks and my tasks in th
 
 ::: table-responsive
 | Week | Dates | Student | Supervisor |
-|:---------:|:----------------:|:----------------:|:----------------:|
+|:---------------:|:-----------------:|:-----------------:|:-----------------:|
 | 1 | 31 Aug – 6 Sep | Topic selection, contact supervisor | Send website, plan meeting |
 | 2 | 7 Sep – 13 Sep | Group meeting 1, write proposal | Prepare research materials |
 | 3 | 14 Sep – 20 Sep | Write proposal | On holiday |

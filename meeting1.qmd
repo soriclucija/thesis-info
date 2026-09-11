@@ -6,14 +6,38 @@
 
 **Location:** Simon building, room S1
 
-## How to find the room?
+## Before the meeting
+
+### How to find the room?
 
 The room is located on the **ground floor** of the Simon building. If you enter from Professor Verbernelaan, on the right you will see an entrance with a staircase, two elevators and a door. Go through that door and then through the hallway on the right. The room will be the first one on the right.
 
-## What if I cannot attend?
+### What if I cannot attend?
 
 Immediately following the meeting, a **meeting summary and the PDF of the presentation will be shared here**. If you cannot attend the meeting, let me know. If the PDF of the presentation is not enough to understand everything, we can schedule an individual meeting on some other day so you can ask questions. This meeting would not count as one of the individual feedback meetings, do not worry.
 
-## Do I have to prepare anything?
+### Do I have to prepare anything?
 
 Everything you need to do to prepare for the meeting has already been shared [here](https://soriclucija.github.io/thesis-info/preparation.html).
+
+## After the meeting
+
+### Meeting slides
+
+You can download the slides [here](https://raw.githubusercontent.com/soriclucija/thesis-info/main/1-meeting-thesis-fall26.pdf).
+
+### Meeting summary
+
+- Introduced ourselves.
+
+- Briefly discussed the topic.
+
+- Explained the topic, mentioned that data collection is done collaboratively, and that population has to be agreed upon by the group.
+
+- Went over the research proposal assignment.
+
+- Mentioned that students are free to add variables, but that they have to find the measure they want to use and explain why.
+
+- Next steps for **students**: think of a research question, keep adjusting ideas, reach out if stuck, and finally submit the proposal.
+
+- Next steps for **supervisor**: plan next meeting in the week of 5th of October, share the questionnaires that will be included, help students with proposal if needed.
