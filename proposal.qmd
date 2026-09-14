@@ -70,7 +70,7 @@ Indicate the expected characteristics of the sample, namely mention the sample s
 
 #### Measures {.unnumbered}
 
-Describe each variable of your study, how it is measured, and what the expected output of the measure will be (e.g., a singular number, a score, a category). For questionnaires, include the name of the questionnaires, scale values (e.g., Likert scale from 1 to 5, with 1 =... , 2 = ...), provide examples of questions. Always cite the original creator of the questionnaire. Provide psychometric data of questionnaires if available in previous work.
+Describe each variable of your study, how it is measured, and what the expected output of the measure will be (e.g., a singular number, a score, a category). For questionnaires, include the name of the questionnaires, scale values (e.g., Likert scale from 1 to 5, with 1 =... , 2 = ...), provide examples of questions. Always cite the original creator of the questionnaire. Provide psychometric data of questionnaires if available in previous work. The planned measures are listed [here](https://soriclucija.github.io/thesis-info/materials.html).
 
 #### Statistical analysis {.unnumbered}
 

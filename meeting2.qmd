@@ -1,3 +1,29 @@
 # Meeting 2 {.unnumbered}
 
-Immediately following the meeting, a meeting summary and the PDF of the presentation will be shared here.
+**Date:** October 9, 2026
+
+**Time:** 14:00 - 15:15
+
+**Location:** Simon building, room S1
+
+## Before the meeting
+
+### How to find the room?
+
+The room is located on the **ground floor** of the Simon building. If you enter from Professor Verbernelaan, on the right you will see an entrance with a staircase, two elevators and a door. Go through that door and then through the hallway on the right. The room will be the first one on the right.
+
+### What if I cannot attend?
+
+Immediately following the meeting, a **meeting summary and the PDF of the presentation will be shared here**. If you cannot attend the meeting, let me know.
+
+### Do I have to prepare anything?
+
+By this date, you will have already submitted and received feedback on your proposal. If you have any questions regarding the feedback, you can prepare them for the meeting. For the meeting itself, you need to prepare a **short** presentation about your proposal.
+
+#### Presentation guidelines
+
+- 1 slide, or an image
+- visually include the **research question**, a **graphical** hypothesis (e.g., if you are comparing two groups you can show an expected difference in scores with a *hypothetical* bar plot, or if you want to do a mediation analysis you should show a mediation model with expected directions of cause such as x increases y) and **one key argument** (e.g., important finding from a paper)
+- verbally prepare to explain your idea by shortly introducing us to the background, indicating the research question and walking us through your hypothesis
+- the presentation should last 2-3 minutes, if not less
+- please **share your slide/image with me by 13:00 on that Friday** so I can present them on the screen in the meeting room

@@ -1,0 +1,7 @@
+# Materials {.unnumbered}
+
+Here you can find all the digital materials needed for your project. This page will be updated periodically.
+
+## Measures
+
+You can download the descriptions of the planned measures [here](https://raw.githubusercontent.com/soriclucija/thesis-info/main/materials/thesis-fall26-measures.pdf). For each measure, listed are: the name of the measure, the reference to the work that first introduced it, and how you can access the measure to observe the items.

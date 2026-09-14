@@ -17,6 +17,7 @@ book:
         #- results.qmd
         #- discussion.qmd
         #- abstract.qmd
+    - materials.qmd
     - part: "Group Meetings"
       chapters:
         - meeting1.qmd
@@ -26,7 +27,7 @@ book:
     - guidelines.qmd
     - contact.qmd
     - faq.qmd
-  page-footer: "by Lucija Sorić &copy; Tilburg University<br>last updated 11/09/26"
+  page-footer: "by Lucija Sorić &copy; Tilburg University<br>last updated 14/09/26"
 
 bibliography: references.bib
 csl: apa.csl
