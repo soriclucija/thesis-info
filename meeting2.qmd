@@ -27,3 +27,27 @@ By this date, you will have already submitted and received feedback on your prop
 - verbally prepare to explain your idea by shortly introducing us to the background, indicating the research question and walking us through your hypothesis
 - the presentation should last 2-3 minutes, if not less
 - please **share your slide/image with me by 13:00 on that Friday** so I can present them on the screen in the meeting room
+
+## After the meeting
+
+### Meeting slides
+
+You can download the slides [here](https://raw.githubusercontent.com/soriclucija/thesis-info/main/2-meeting-thesis-fall26.pdf).
+
+### Meeting summary
+
+- Gave some general feedback about proposals.
+
+- Explained some APA rules about **citations, abbreviations, capitalization**.
+
+- Students presented their proposals.
+
+- Presented "the funnel", some tips about starting.
+
+- Went over some **openers** for a scientific paper.
+
+- Introduced a reference manager (Zotero) and briefly demonstrated how it can be used within the thesis process. A link for a 10-minute tutorial is shared in the slides.
+
+- Shared some tips about writing the methods section.
+
+- Finished with an overview of the upcoming tasks and deadlines.

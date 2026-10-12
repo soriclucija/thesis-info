@@ -1,1 +1,200 @@
 # Introduction
+
+Scientific writing is storytelling, not an administrative report. In your story, the introduction serves as the first chapter. It exists to convince the reader of the importance of the topic and justifies your research.
+
+## How do I tell a story? {.unnumbered}
+
+### Order matters {.unnumbered}
+
+In any sort of storytelling, there is a "logical" way to do things. When you watch a movie, it is very unlikely that the biggest battle, the saddest conversation, or the biggest journey will happen right at the beginning. (Unless the filmmaker *really* likes to experiment.)
+
+Instead, stories start with a "hook", something that draws you in - followed by sentences that put that hook into context.
+
+In scientific writing, the order is quite similar. If you do not do this right, your reader might lose interest. After all, do not we all have a book we just *cannot* get into?
+
+::::: {.card .card-gold}
+::: card-header
+Order in Scientific Writing
+:::
+
+::: card-body
+You start with a **hook of sorts** followed by a general **topic introduction**. This topic introduction is put into context through a **literature review** where you show what we know now, what we could know, and why this matters. Finally, you **show how your work helps us know more**.
+:::
+:::::
+
+### Content matters {.unnumbered}
+
+We as a society know a lot - but we also do not know even more. There are many things to learn or discover. Would it not be cool to solve a disease, help a certain group of people, stop climate change, or find a new planet?
+
+Unfortunately it is **very** unlikely your thesis can do even a fraction of a discovery of such magnitude. This makes sense, a bachelor's thesis is a part-time endeavor over a few months, with a focus on skill-gaining - not discovery.
+
+::::: {.card .card-gold}
+::: card-header
+Content in Scientific Writing
+:::
+
+::: card-body
+Important to:
+
+- not use **strong claims**
+
+- not **oversell your research**
+
+**Remember:** scientific storytelling is based on reality not fiction. Honesty and transparency are crucial.
+:::
+:::::
+
+### Style matters {.unnumbered}
+
+Style (in scientific writing) refers to *how* something is written, rather than *what* is written. It is an important, often ignored element of writing a good paper or a thesis.
+
+When reading a paper, style is usually the first thing a reader notices. They notice 1) the **general structure of the paper** that might not be self-chosen, and 2) the **individual's writing style**.
+
+#### Structure {.unnumbered}
+
+Here, structure refers to the way a paper is organized. This might be imposed by journal's standards, or industry standards (such as APA). For example, it indicates where a section will be, if a sub-section will have a sub-heading, how things will be cited, how figures are named, etc.
+
+In a bachelor's thesis structure expectations are clearly stated, and usually follow the program's general standard - such as with the APA.
+
+#### Individual style {.unnumbered}
+
+Individual style is less strictly defined, but it adds to the reading experience even more than the structure. It refers to the way e.g., a writer structures sentences, types of words they use, length of sentences, use of commas, etc.
+
+Despite the subjectivity of this style, there are certain expectations, and certain rules a scientific writer needs to follow. Below I share some stylistic tips and suggestions.
+
+:::::::::::::::::: {#writingTips .accordion}
+::::: accordion-item
+```{=html}
+<h2 class="accordion-header" id="tip1-heading"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#tip1" aria-expanded="false" aria-controls="tip1"><span>1. Do not use <strong>"big words"</strong> that are heavy and uncommon.</span></button></h2>
+```
+
+:::: {#tip1 .accordion-collapse .collapse aria-labelledby="tip1-heading"}
+::: accordion-body
+Use simple, commonly understood words and phrases. These words, or phrases, are commonly found in student papers and are often included in AI generated writing. However, more complicated **does not** equal better.
+
+For example:
+
+- individuals -\> people
+- employ, utilize -\> use
+- acquire -\> get
+- consequently -\> so
+:::
+::::
+:::::
+
+::::: accordion-item
+```{=html}
+<h2 class="accordion-header" id="tip2-heading"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#tip2" aria-expanded="false" aria-controls="tip2"><span>2. Remove <strong>excess verbiage.</strong></span></button></h2>
+```
+
+:::: {#tip2 .accordion-collapse .collapse aria-labelledby="tip2-heading"}
+::: accordion-body
+Such as **redundant word pairs or unnecessary modifiers**:
+
+- end result -\> result
+- unexpected surprise -\> surprise
+- brief summary -\> summary
+- close proximity -\> proximity
+
+In these examples, the removed word *does not add* any additional meaning to the final word. Result, by definition, is an end-point of a process. Surprises are by definition unexpected. A summary is by definition brief, and something in proximity is by definition close by.
+
+Another example is the usage of wordy phrases:
+
+- due to the fact that -\> because
+- at this point in time -\> now
+
+These examples simplify 5-word-phrases into one word without losing any meaning.
+:::
+::::
+:::::
+
+::::: accordion-item
+```{=html}
+<h2 class="accordion-header" id="tip3-heading"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#tip3" aria-expanded="false" aria-controls="tip3"><span>3. <strong>Shorten sentences</strong> as much as possible.</span></button></h2>
+```
+
+:::: {#tip3 .accordion-collapse .collapse aria-labelledby="tip3-heading"}
+::: accordion-body
+Try cutting sentences into halves, or thirds to improve readability.
+:::
+::::
+:::::
+
+::::: accordion-item
+```{=html}
+<h2 class="accordion-header" id="tip4-heading"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#tip4" aria-expanded="false" aria-controls="tip4"><span>4. Remove <strong>unnecessary</strong> adverbs and adjectives.</span></button></h2>
+```
+
+:::: {#tip4 .accordion-collapse .collapse aria-labelledby="tip4-heading"}
+::: accordion-body
+- adverbs such as *basically, essentially* do not add much
+- evaluative adjectives such as *important, interesting* add subjectivity that you should avoid
+- intensifiers such as *very, really, highly* may make you oversell your research
+:::
+::::
+:::::
+
+::::: accordion-item
+```{=html}
+<h2 class="accordion-header" id="tip5-heading"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#tip5" aria-expanded="false" aria-controls="tip5"><span>5. Opt for <strong>parenthetical instead of narrative citations</strong>.</span></button></h2>
+```
+
+:::: {#tip5 .accordion-collapse .collapse aria-labelledby="tip5-heading"}
+::: accordion-body
+Smith (2017) found that water is wet. -\> Water is wet (Smith, 2017).
+
+Authors should only be mentioned narratively if their work is integral part of your study, and you will be actively contributing to their ideas directly and/or when a paper is a foundational study.
+:::
+::::
+:::::
+::::::::::::::::::
+
+### Flow matters {.unnumbered}
+
+In literary and cinematic storytelling, there are *many* stories with non-standard structures. Novels that combine present and past, movies that combine conscious and subconscious, or TV-shows that combine reality and dreams - I am sure you all can name at least one. While many of these may be masterpieces, **many** media consumers still find them confusing, odd, or complicated.
+
+Unlike artistic storytelling, scientific storytelling **cannot** rely on emotional and perceptive experiences, openness to ambiguity, and differential interpretations. It leaves very little room for experimentation in structure or word, and mostly relies on logical, uninterrupted sequences.
+
+::::: {.card .card-gold}
+::: card-header
+Flow in Scientific Writing
+:::
+
+::: card-body
+Important that:
+
+- paragraphs **naturally flow** from one another
+
+- literature is **integrated** within the larger structure of the section
+:::
+:::::
+
+This means that often times, if you want to study e.g., the development of cognitive abilities in children, the usual structure of: 1) introduce and define cognitive abilities \[interruption\] 2) introduce development of abilities \[interruption\] 3) connect the two - might not be ideal.
+
+Instead it could be integrated differently, by for example talking about development of abilities, and using cognitive abilities as an instance of such.
+
+### "Proof" matters {.unnumbered}
+
+Have you ever seen a courtroom drama where a new piece of evidence gets discovered and the entire room becomes chaos? While such scenes might not fully mirror the real world, they do show that **evidence changes things.**
+
+It is unlikely your sentences will succeed at convincing a reader without evidence. Without evidence, a reader cannot distinguish opinion from fact.
+
+It is also possible that your reader might feel cheated if you do not provide evidence. In scientific writing, it is possible that your reader was in fact the one that found something. Without showing evidence of these findings, you might be incorrectly attributing the findings to yourself.
+
+Failing to show evidence might also weaken your arguments, even if they are (in theory) excellent! Perhaps there is a niche finding that justifies your research perfectly - without evidence, this finding seems like a speculation.
+
+::::: {.card .card-gold}
+::: card-header
+"Proof" in Scientific Writing
+:::
+
+::: card-body
+Important to:
+
+- **correctly reference and cite** all literature that supports your ideas
+
+- cite **right articles** - classics, reviews, recent work
+
+- **show importance of previous work when building your arguments**
+:::
+:::::

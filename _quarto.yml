@@ -12,7 +12,7 @@ book:
       chapters:
         - preparation.qmd
         - proposal.qmd
-        #- introduction.qmd
+        - introduction.qmd
         #- methods.qmd
         #- results.qmd
         #- discussion.qmd
