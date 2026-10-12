@@ -5,3 +5,81 @@ Here you can find all the digital materials needed for your project. This page w
 ## Measures
 
 You can download the descriptions of the planned measures [here](https://raw.githubusercontent.com/soriclucija/thesis-info/main/materials/thesis-fall26-measures.pdf). For each measure, listed are: the name of the measure, the reference to the work that first introduced it, and how you can access the measure to observe the items.
+
+### Additions
+
+#### Education
+
+Added these response choices:
+
+- Primary education (basisonderwijs, up to middle school)
+
+- Preparatory vocational education (VMBO and equivalent)
+
+- General secondary education (HAVO and equivalent)
+
+- Preparatory scientific education (VWO and equivalent, highest level of secondary education)
+
+- Secondary vocational education (MBO and equivalent)
+
+- Applied sciences education (HBO Bachelor or Master)
+
+- University education (WO Bachelor or Master)
+
+- Advanced university education (doctorate degree, post-master's training)
+
+- other
+
+#### Social-media use
+
+This is the question:
+
+Over the past 7 days, how much time **did you spend on social media\* per day, on average**? Please input the time in hours and minutes.
+\
+*\* Social media includes apps and websites such as Instagram, TikTok, Snapchat, Facebook, X (Twitter), YouTube, Reddit, and WhatsApp. Count time on all your devices. If you’re not sure, you can check your device's screen time settings.*
+
+### Adaptations
+
+#### Human Values Scale
+
+- Removed the "Don't know" response category
+
+- Final response items are: 1 = Not like me at all, 2 = Not like me, 3 = A little like me, 4 = Somewhat like me, 5 = Like me, 6 = Very much like me
+
+- Questions are adapted to have one neutral-pronoun version, instead of two versions for he/she pronouns
+
+#### Credibility of Science Scale, Ten-Item Personality Inventory, Actively Open-Minded Thinking
+
+- Response items have been adapted to be in line with response items of other questionnaires in the survey
+
+- Final response items are: 1 = Strongly disagree, 2 = Disagree, 3 = Somewhat disagree, 4 = Neither agree nor disagree, 5 = Somewhat agree, 6 = Agree, 7 = Strongly agree
+
+- The original items can be found in the original papers
+
+## Ethics
+
+The study does not have ethical approval since it is created for educational purposes. You can indicate this in your methods section. The participants are required to provide informed consent by agreeing to the following points:
+
+- I am at least 18 years old.
+
+<!-- -->
+
+- I speak a sufficient level of English to participate.
+
+<!-- -->
+
+- I have read and understood the information above.
+
+<!-- -->
+
+- I understand that my participation is voluntary.
+
+<!-- -->
+
+- I understand that I can stop at any point, without giving a reason and without any negative consequences.
+
+<!-- -->
+
+- I understand that my data will only be used for educational purposes.
+
+In case they do not agree, they get sent to the end-of-survey page immediately which thanks them for their time.

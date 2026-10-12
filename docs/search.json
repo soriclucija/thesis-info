@@ -150,11 +150,53 @@
     ]
   },
   {
+    "objectID": "methods.html",
+    "href": "methods.html",
+    "title": "4  Methods",
+    "section": "",
+    "text": "How to write a methods section?\nA lot of the general writing tips shared in the previous section can be applied to the methods as well.\nOne small difference is that the methods section offers even less artistic input than the introduction. Instead, the general purpose of the methods section is to provide enough detail so that another researcher (for example me) can repeat the procedure and get the exact same results.\nThis is likely the most important section of all published papers nowadays, and the improvement of psychological science might as well depend fully on our transparency in reporting. (Remember: the replication crisis.)",
+    "crumbs": [
+      "Thesis Process",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Methods</span>"
+    ]
+  },
+  {
+    "objectID": "methods.html#how-to-write-a-methods-section",
+    "href": "methods.html#how-to-write-a-methods-section",
+    "title": "4  Methods",
+    "section": "",
+    "text": "Organize the sub-sections logically\nDecide what information you need to present, i.e., what you will be naming the subheadings of different parts.\nTypical sub-sections include (but are not limited to): participants, task, measures, design, procedure, data analyses, preprocessing…\nThese differ based on study design, and some may not be necessary. For example, in self-report studies, you likely do not have tasks.\nIt is important to order these sub-sections logically, and according to some standard. For example, information about participants is typically reported first, and information about planned data analyses last - preparing the reader for the results section.\n\n\nUse simple language\nThe methods section needs to be easily understandable to allow for future replications. Simple language is less ambiguous is less likely to confuse the reader as to what exactly you did.\n\n\nReport enough, but not too much detail\nDetails are necessary to appropriately judge the study, facilitate future replications/meta-analyses, and to make it clear and unambiguous.\nHowever, not all steps that were carried out help this cause. For example:\n“Data collection was carried out in-person at Tilburg University. If the participants came early to the session, we chatted with them through small-talk. On average, a session lasted 50 minutes.”\nThe crossed out sentence does not add anything to the description and is unnecessary. Therefore, although this action was carried out, there is no reason to describe it.\n\n\nReport any deviation from standard practice\nSome measures are standardized, such as certain perceptual tasks, popular surveys, etc. However, sometimes for the sake of the study it is necessary to adapt these measures. It is important to note how a measure was adapted, and potentially why. If you cite the original creator of a task without describing an adaptation, it is assumed that you are using the exact same measure they used.",
+    "crumbs": [
+      "Thesis Process",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Methods</span>"
+    ]
+  },
+  {
     "objectID": "materials.html",
     "href": "materials.html",
     "title": "Materials",
     "section": "",
     "text": "Measures\nHere you can find all the digital materials needed for your project. This page will be updated periodically.\nYou can download the descriptions of the planned measures here. For each measure, listed are: the name of the measure, the reference to the work that first introduced it, and how you can access the measure to observe the items.",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#measures",
+    "href": "materials.html#measures",
+    "title": "Materials",
+    "section": "",
+    "text": "Additions\n\nEducation\nAdded these response choices:\n\nPrimary education (basisonderwijs, up to middle school)\nPreparatory vocational education (VMBO and equivalent)\nGeneral secondary education (HAVO and equivalent)\nPreparatory scientific education (VWO and equivalent, highest level of secondary education)\nSecondary vocational education (MBO and equivalent)\nApplied sciences education (HBO Bachelor or Master)\nUniversity education (WO Bachelor or Master)\nAdvanced university education (doctorate degree, post-master’s training)\nother\n\n\n\nSocial-media use\nThis is the question:\nOver the past 7 days, how much time did you spend on social media* per day, on average? Please input the time in hours and minutes.\n* Social media includes apps and websites such as Instagram, TikTok, Snapchat, Facebook, X (Twitter), YouTube, Reddit, and WhatsApp. Count time on all your devices. If you’re not sure, you can check your device’s screen time settings.\n\n\n\nAdaptations\n\nHuman Values Scale\n\nRemoved the “Don’t know” response category\nFinal response items are: 1 = Not like me at all, 2 = Not like me, 3 = A little like me, 4 = Somewhat like me, 5 = Like me, 6 = Very much like me\nQuestions are adapted to have one neutral-pronoun version, instead of two versions for he/she pronouns\n\n\n\nCredibility of Science Scale, Ten-Item Personality Inventory, Actively Open-Minded Thinking\n\nResponse items have been adapted to be in line with response items of other questionnaires in the survey\nFinal response items are: 1 = Strongly disagree, 2 = Disagree, 3 = Somewhat disagree, 4 = Neither agree nor disagree, 5 = Somewhat agree, 6 = Agree, 7 = Strongly agree\nThe original items can be found in the original papers",
+    "crumbs": [
+      "Materials"
+    ]
+  },
+  {
+    "objectID": "materials.html#ethics",
+    "href": "materials.html#ethics",
+    "title": "Materials",
+    "section": "Ethics",
+    "text": "Ethics\nThe study does not have ethical approval since it is created for educational purposes. You can indicate this in your methods section. The participants are required to provide informed consent by agreeing to the following points:\n\nI am at least 18 years old.\n\n\n\nI speak a sufficient level of English to participate.\n\n\n\nI have read and understood the information above.\n\n\n\nI understand that my participation is voluntary.\n\n\n\nI understand that I can stop at any point, without giving a reason and without any negative consequences.\n\n\n\nI understand that my data will only be used for educational purposes.\n\nIn case they do not agree, they get sent to the end-of-survey page immediately which thanks them for their time.",
     "crumbs": [
       "Materials"
     ]
@@ -230,7 +272,18 @@
     "href": "meeting3.html",
     "title": "Meeting 3",
     "section": "",
-    "text": "Immediately following the meeting, a meeting summary and the PDF of the presentation will be shared here.",
+    "text": "Before the meeting\nDate: November 6, 2026\nTime: 14:00 - 15:15\nLocation: Simon building, room S1",
+    "crumbs": [
+      "Group Meetings",
+      "Meeting 3"
+    ]
+  },
+  {
+    "objectID": "meeting3.html#before-the-meeting",
+    "href": "meeting3.html#before-the-meeting",
+    "title": "Meeting 3",
+    "section": "",
+    "text": "How to find the room?\nThe room is located on the ground floor of the Simon building. If you enter from Professor Verbernelaan, on the right you will see an entrance with a staircase, two elevators and a door. Go through that door and then through the hallway on the right. The room will be the first one on the right.\n\n\nWhat if I cannot attend?\nImmediately following the meeting, a meeting summary and the PDF of the presentation will be shared here. If you cannot attend the meeting, let me know.",
     "crumbs": [
       "Group Meetings",
       "Meeting 3"

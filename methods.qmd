@@ -1,1 +1,37 @@
 # Methods
+
+A lot of the general writing tips shared in the previous section can be applied to the methods as well.
+
+One small difference is that the methods section offers even less artistic input than the introduction. Instead, the general purpose of the methods section is to provide enough detail so that another researcher (for example me) can repeat the procedure and get the **exact same results.**
+
+This is likely the most important section of all published papers nowadays, and the improvement of psychological science might as well depend fully on our **transparency in reporting**. (Remember: the replication crisis.)
+
+## How to write a methods section? {.unnumbered}
+
+### Organize the sub-sections logically {.unnumbered}
+
+Decide what information you need to present, i.e., what you will be naming the subheadings of different parts.
+
+Typical sub-sections include (but are not limited to): participants, task, measures, design, procedure, data analyses, preprocessing...
+
+These differ based on study design, and some may not be necessary. For example, in self-report studies, you likely do not have tasks.
+
+It is important to order these sub-sections logically, and according to some standard. For example, information about participants is typically reported first, and information about planned data analyses last - preparing the reader for the results section.
+
+### Use simple language {.unnumbered}
+
+The methods section needs to be **easily** understandable to allow for future replications. Simple language is less ambiguous is less likely to confuse the reader as to what exactly you did.
+
+### Report enough, but not too much detail {.unnumbered}
+
+Details are necessary to appropriately judge the study, facilitate future replications/meta-analyses, and to make it clear and unambiguous.
+
+However, not all steps that were carried out help this cause. For example:
+
+"Data collection was carried out in-person at Tilburg University. ~~If the participants came early to the session, we chatted with them through small-talk.~~ On average, a session lasted 50 minutes."
+
+The crossed out sentence does not add anything to the description and is unnecessary. Therefore, although this action was carried out, there is no reason to describe it.
+
+### Report any deviation from standard practice {.unnumbered}
+ 
+Some measures are standardized, such as certain perceptual tasks, popular surveys, etc. However, sometimes for the sake of the study it is necessary to adapt these measures. It is important to note how a measure was adapted, and potentially why. If you cite the original creator of a task without describing an adaptation, it is assumed that you are using the exact same measure they used.

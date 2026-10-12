@@ -46,7 +46,7 @@ You can download the slides [here](https://raw.githubusercontent.com/soriclucija
 
 - Went over some **openers** for a scientific paper.
 
-- Introduced a reference manager (Zotero) and briefly demonstrated how it can be used within the thesis process. A link for a 10-minute tutorial is shared in the slides.
+- Introduced a reference manager **(Zotero)** and briefly demonstrated how it can be used within the thesis process. A link for a 10-minute tutorial is shared in the slides.
 
 - Shared some tips about writing the methods section.
 

@@ -13,7 +13,7 @@ book:
         - preparation.qmd
         - proposal.qmd
         - introduction.qmd
-        #- methods.qmd
+        - methods.qmd
         #- results.qmd
         #- discussion.qmd
         #- abstract.qmd
@@ -27,7 +27,7 @@ book:
     - guidelines.qmd
     - contact.qmd
     - faq.qmd
-  page-footer: "by Lucija Sorić &copy; Tilburg University<br>last updated 14/09/26"
+  page-footer: "by Lucija Sorić &copy; Tilburg University<br>last updated 12/10/26"
 
 bibliography: references.bib
 csl: apa.csl
