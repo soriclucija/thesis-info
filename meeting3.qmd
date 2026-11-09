@@ -15,3 +15,27 @@ The room is located on the **ground floor** of the Simon building. If you enter 
 ### What if I cannot attend?
 
 Immediately following the meeting, a **meeting summary and the PDF of the presentation will be shared here**. If you cannot attend the meeting, let me know.
+
+## After the meeting
+
+### Meeting slides
+
+You can download the slides [here](https://raw.githubusercontent.com/soriclucija/thesis-info/main/presentations/3-meeting-thesis-fall26.pdf).
+
+### Meeting summary
+
+- Gave some general feedback about introduction and methods.
+
+- Mentioned some specifics for the methods (such as including ethical considerations).
+
+- Presented demographic data about out sample.
+
+- Interactively explained rules about writing results and discussion.
+
+- Students judged an example of an abstract according to grading criteria.
+
+- Finished with an overview of the upcoming tasks and deadlines.
+
+- Offered an option to receive feedback about the analysis plan.
+
+- Asked students to discuss whether the proposed deadline for results works with their exam schedules.

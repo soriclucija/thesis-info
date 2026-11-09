@@ -34,8 +34,7 @@ Added these response choices:
 
 This is the question:
 
-Over the past 7 days, how much time **did you spend on social media\* per day, on average**? Please input the time in hours and minutes.
-\
+Over the past 7 days, how much time **did you spend on social media\* per day, on average**? Please input the time in hours and minutes.\
 *\* Social media includes apps and websites such as Instagram, TikTok, Snapchat, Facebook, X (Twitter), YouTube, Reddit, and WhatsApp. Count time on all your devices. If you’re not sure, you can check your device's screen time settings.*
 
 ### Adaptations
