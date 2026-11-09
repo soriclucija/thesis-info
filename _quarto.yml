@@ -27,7 +27,7 @@ book:
     - guidelines.qmd
     - contact.qmd
     - faq.qmd
-  page-footer: "by Lucija Sorić &copy; Tilburg University<br>last updated 12/10/26"
+  page-footer: "by Lucija Sorić &copy; Tilburg University<br>last updated 26/11/09"
 
 bibliography: references.bib
 csl: apa.csl
